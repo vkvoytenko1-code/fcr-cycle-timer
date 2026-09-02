@@ -1,0 +1,3 @@
+Triggering GitHub Actions build and release vX.Y.Z
+
+This file was added to trigger the GitHub Actions workflow that builds the self-contained exe and creates release vX.Y.Z.
